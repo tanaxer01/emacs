@@ -4,9 +4,11 @@
   ;crux
   company
   ;docker
+  deft
   doom-theme
   eglot
-  ;folding
+  evil
+  folding
   magit
   markdown
   ;popwin
@@ -14,7 +16,7 @@
   tree-sitter
   treemacs
   ;dashboard
-
   ;github-theme  
-  ;doom-modeline
+  doom-modeline
+  yaml
   )

@@ -33,4 +33,10 @@
       ring-bell-function 'ignore
       column-number-mode t)
 
+;; Vim like scrolling
+(setq scroll-step 1
+      scroll-conservatively 10000)
+(setq next-screen-context-lines 5)
+(setq line-move-visual nil)
+
 (provide 'core-settings)

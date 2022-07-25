@@ -7,7 +7,8 @@
   (add-hook 'tree-sitter-after-on-hook #'tree-sitter-hl-mode))
 
 (use-package tree-sitter-langs
-  :straight t)
+  :straight t
+  :after tree-sitter)
 
 
 
