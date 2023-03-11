@@ -1,0 +1,4 @@
+;; general.el -*- lexical-binding:t -*-
+
+(use-package general
+  :straight t)
